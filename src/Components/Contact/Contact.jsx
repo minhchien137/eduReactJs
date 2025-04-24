@@ -37,9 +37,10 @@ const Contact = () => {
     <div className='contact'>
       <div className="contact-col">
         <h3>Send us a message <img src={msg_icon} alt="" /></h3>
-        <p>Bai bai bai</p>
+        <p>No matter where you are in the world, we’re only a message away. 
+         Tell us what’s on your mind and let’s explore how we can make something amazing happen — together.</p>
         <ul>
-            <li><img src={mail_icon} alt="" />Contact@GreateStak.dev</li>
+            <li><img src={mail_icon} alt="" />Contact@Edusity.com</li>
             <li><img src={phone_icon} alt="" />+1 123-456-789</li>
             <li><img src={location_icon} alt="" />77 Massachusetts Avt, Cambridge <br/> MA 02139, United States </li>
         </ul>
@@ -49,7 +50,7 @@ const Contact = () => {
             <label>Your name</label>
             <input type="text" name='name' placeholder='Enter your name' required />
             <label>Phone Number</label>
-            <input type="tel" name='phone' placeholder='ENter your phone number' required />
+            <input type="tel" name='phone' placeholder='Enter your phone number' required />
             <label>Write your message here</label>
             <textarea name="message" rows="6" placeholder='Enter your message' required></textarea>
             <button type='submit' className='btn dark-btn'>Submit now <img src={white_arrow} alt="" /></button>

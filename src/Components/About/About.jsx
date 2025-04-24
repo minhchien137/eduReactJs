@@ -15,17 +15,11 @@ const About = () => {
             <h3>ABOUT UNIVERSITY</h3>
             <h2>Nurturing Tomorrow</h2>
             <p>
-        Trường Đại học Công nghệ XYZ là một trong những cơ sở giáo dục hàng đầu tại Việt Nam, nổi bật với chương trình đào tạo tiên tiến và
-         đội ngũ giảng viên giàu kinh nghiệm. Với sứ mệnh đào tạo nguồn nhân lực chất lượng cao, nhà trường luôn không ngừng đổi mới phương 
-         pháp giảng dạy, chú trọng thực hành và kết nối với doanh nghiệp. Sinh viên tại đây không chỉ được học kiến thức chuyên môn mà còn 
-         được phát triển toàn diện các kỹ năng mềm, tư duy sáng tạo và khả năng thích nghi với môi trường làm việc hiện đại.
+            XYZ University of Technology is one of the leading educational institutions in Vietnam, distinguished by its advanced training programs and a team of highly experienced lecturers. With a mission to nurture high-quality human resources, the university continuously innovates its teaching methods, emphasizing practical training and strong connections with the industry. Students here not only gain in-depth professional knowledge but also develop essential soft skills, creative thinking, and the adaptability needed to thrive in modern work environments.
             </p>
 
             <p>
-        Với khuôn viên rộng rãi, hiện đại và xanh mát, Trường Đại học Công nghệ XYZ mang đến cho sinh viên một môi trường học tập lý tưởng. 
-        Các phòng học được trang bị thiết bị giảng dạy tiên tiến, thư viện điện tử hiện đại cùng hệ thống phòng thí nghiệm đạt chuẩn quốc tế, 
-        giúp sinh viên có thể tiếp cận và thực hành kiến thức một cách hiệu quả. Ngoài ra, khu ký túc xá và khu thể thao đa năng cũng góp phần 
-        tạo nên đời sống sinh viên năng động và đầy đủ tiện nghi.
+            "With a spacious, modern, and green campus, XYZ University of Technology offers students an ideal learning environment. Classrooms are equipped with advanced teaching facilities, a state-of-the-art digital library, and internationally standardized laboratories, enabling students to effectively access and apply their knowledge. In addition, the on-campus dormitories and multi-functional sports complex contribute to a dynamic and well-rounded student life.
             </p>
 
 

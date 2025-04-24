@@ -49,8 +49,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Trường Đại học Công nghệ XYZ là một trong những cơ sở giáo dục hàng đầu tại Việt Nam, nổi bật với chương trình đào tạo tiên tiến và
-                    đội ngũ giảng viên giàu kinh nghiệm. Với sứ mệnh đào tạo nguồn nhân lực chất lượng cao, nhà trường luôn không ngừng đổi mới phương.</p>                      
+                        <p>XYZ University of Technology is one of the leading educational institutions in Vietnam, renowned for its advanced training programs and highly experienced faculty. With a mission to develop high-quality human resources, the university continually innovates its teaching methods and approaches.</p>                      
                     </div>
                    
                 </li>
@@ -64,8 +63,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Trường Đại học Công nghệ XYZ là một trong những cơ sở giáo dục hàng đầu tại Việt Nam, nổi bật với chương trình đào tạo tiên tiến và
-                    đội ngũ giảng viên giàu kinh nghiệm. Với sứ mệnh đào tạo nguồn nhân lực chất lượng cao, nhà trường luôn không ngừng đổi mới phương.</p>
+                        <p>XYZ University of Technology is one of the leading educational institutions in Vietnam, renowned for its advanced training programs and highly experienced faculty. With a mission to develop high-quality human resources, the university continually innovates its teaching methods and approaches.</p>
                     </div>
                 </li>
 
@@ -78,8 +76,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Trường Đại học Công nghệ XYZ là một trong những cơ sở giáo dục hàng đầu tại Việt Nam, nổi bật với chương trình đào tạo tiên tiến và
-                    đội ngũ giảng viên giàu kinh nghiệm. Với sứ mệnh đào tạo nguồn nhân lực chất lượng cao, nhà trường luôn không ngừng đổi mới phương.</p>
+                        <p>XYZ University of Technology is one of the leading educational institutions in Vietnam, renowned for its advanced training programs and highly experienced faculty. With a mission to develop high-quality human resources, the university continually innovates its teaching methods and approaches.</p>
                     </div>
                    
                 </li>
@@ -93,8 +90,7 @@ const Testimonials = () => {
                                 <span>Edusity, USA</span>
                             </div>
                         </div>
-                        <p>Trường Đại học Công nghệ XYZ là một trong những cơ sở giáo dục hàng đầu tại Việt Nam, nổi bật với chương trình đào tạo tiên tiến và
-                    đội ngũ giảng viên giàu kinh nghiệm. Với sứ mệnh đào tạo nguồn nhân lực chất lượng cao, nhà trường luôn không ngừng đổi mới phương.</p>
+                        <p>XYZ University of Technology is one of the leading educational institutions in Vietnam, renowned for its advanced training programs and highly experienced faculty. With a mission to develop high-quality human resources, the university continually innovates its teaching methods and approaches.</p>
                     </div>
                 </li>
 
